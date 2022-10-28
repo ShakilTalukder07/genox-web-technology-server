@@ -10,7 +10,7 @@ const courses = require("./data/courses.json");
 const question = require("./data/question.json");
 
 app.get("/", (req, res) => {
-  res.send("Server is ready to fight");
+  res.send("Server Is Ready.");
 });
 
 app.get("/course-category", (req, res) => {

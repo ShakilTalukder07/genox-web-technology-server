@@ -14,5 +14,13 @@
   {
     "id": "04",
     "name": "Database Course"
+  },
+  {
+    "id": "05",
+    "name": "AI Development"
+  },
+  {
+    "id": "06",
+    "name": "Machine Learning"
   }
 ]

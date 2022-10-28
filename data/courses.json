@@ -12,7 +12,7 @@
     "author": {
       "name": "SHAKIL TALUKDER",
       "published_date": "2022-08-24 17:27:34",
-      "img": "https://i.ibb.co/2F0Zr35/sas.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHdQvapOwFzhoW5Chj73IEwYinzAOjr8afw&usqp=CAU"
     },
     "image_url": "https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg",
     "details": "MERN Stack is one of the most popular user-friendly Full Stack Web Development structures."
@@ -30,12 +30,11 @@
     "author": {
       "name": "JEMIMA HUSSAIN",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://comicvine.gamespot.com/a/uploads/scale_small/1/12483/277673-175026-jerry.jpg"
     },
     "image_url": "https://miro.medium.com/max/1400/1*HgJ-L3_LdA8bR_I8pcMehQ.png",
     "details": "Our Full Stack Developer course will allow you to learn how to create full-stack web applications using the front-end and back-end JavaScript technologies, which form the core of MEAN—MongoDB, ExpressJS and Node.js."
   },
-
   {
     "_id": "02898uj98uj39uj30mnb3y7893gfr5",
     "category_id": "02",
@@ -49,7 +48,7 @@
     "author": {
       "name": "SHAKIL TALUKDER",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHdQvapOwFzhoW5Chj73IEwYinzAOjr8afw&usqp=CAU"
     },
     "image_url": "https://thurrott.s3.amazonaws.com/2019/05/flutter-mobile-web-desktop.jpg",
     "details": "Flutter is the new Cross-platform Mobile Development Framework created by Google, allowing developers to build Android and iOS Apps with one single codebase!"
@@ -67,7 +66,7 @@
     "author": {
       "name": "JEMIMA HUSSAIN",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://comicvine.gamespot.com/a/uploads/scale_small/1/12483/277673-175026-jerry.jpg"
     },
     "image_url": "https://kotlinlang.org/assets/images/twitter/general.png",
     "details": "Kotlin is a programming language which is available across platforms and statically typed with type inference. This course will equip you with the understanding required to develop mobile applications using Kotlin."
@@ -85,12 +84,11 @@
     "author": {
       "name": "JEMIMA HUSSAIN",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://comicvine.gamespot.com/a/uploads/scale_small/1/12483/277673-175026-jerry.jpg"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
     "details": "Learn Web Development online at your own pace. Start today and improve your skills."
   },
-
   {
     "_id": "67yy3h67gr567yg5rr3567e3",
     "category_id": "04",
@@ -104,12 +102,11 @@
     "author": {
       "name": "JEMIMA HUSSAIN",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://comicvine.gamespot.com/a/uploads/scale_small/1/12483/277673-175026-jerry.jpg"
     },
     "image_url": "https://i.ibb.co/gRzHyGQ/mysql.png",
     "details": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel."
   },
-
   {
     "_id": "67yg986e5e45f9n3rcp3bp6dr3",
     "category_id": "04",
@@ -123,9 +120,45 @@
     "author": {
       "name": "SHAKIL TALUKDER",
       "published_date": "2022-10-20 11:27:34",
-      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHdQvapOwFzhoW5Chj73IEwYinzAOjr8afw&usqp=CAU"
     },
     "image_url": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775",
     "details": "Simple learn’s MongoDB certification equips you with the relevant skills required to become a MongoDB Developer. The highly-qualified instructors for this MongoDB course help you understand why more businesses are using MongoDB development services to handle their increasing data storage and handling demands."
+  },
+  {
+    "_id": "67yy3h67gr567yg5rr3567e3",
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Rising"
+    },
+    "total_view": 23670,
+    "price": 69.99,
+    "title": "AI Development",
+    "author": {
+      "name": "JEMIMA HUSSAIN",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://comicvine.gamespot.com/a/uploads/scale_small/1/12483/277673-175026-jerry.jpg"
+    },
+    "image_url": "https://i.ibb.co/gRzHyGQ/mysql.png",
+    "details": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans."
+  },
+  {
+    "_id": "67yg986e5e45f9n3rcp3bp6dr3",
+    "category_id": "06",
+    "rating": {
+      "number": 4.8,
+      "badge": "Super Short"
+    },
+    "total_view": 88488,
+    "price": 87.99,
+    "title": "Machine Learning",
+    "author": {
+      "name": "SHAKIL TALUKDER",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHdQvapOwFzhoW5Chj73IEwYinzAOjr8afw&usqp=CAU"
+    },
+    "image_url": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775",
+    "details": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks."
   }
 ]
